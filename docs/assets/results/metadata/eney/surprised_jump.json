@@ -1,0 +1,10 @@
+{
+  "prompt": "Eney jumps highly, resembling a shocked emotion. After landing, Eney looks around, turning its body and eyes to the left and right, as if it's suspiciously looking for something.",
+  "examples": ["eney_smile", "eney_sad"],
+  "notes": "",
+  "comment": "",
+  "refined": false,
+  "incremental_generation": false,
+  "first_try": true,
+  "no_examples": false
+}
